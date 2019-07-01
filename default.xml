@@ -3,8 +3,8 @@
 
   <remote name="aosp"
           fetch="https://android.googlesource.com"
-          review="https://android-review.googlesource.com/"
-          revision="refs/tags/android-9.0.0_r40"
+          review="android-review.googlesource.com"
+          revision="refs/tags/android-9.0.0_r44"
           remote="aosp"
           sync-j="4" />
 
