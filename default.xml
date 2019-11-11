@@ -571,6 +571,8 @@
 
   <include name="candy.xml" />
 
+  <include name="rajatgupta1998.xml" />
+
   <include name="lineage.xml" />
 
 </manifest>
