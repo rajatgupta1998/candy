@@ -11,7 +11,7 @@ To get started with Candy9, you'll need to get familiar with
 To initialize your local repository using the Candy c9.0 trees, use this command:
 
 
-	repo init -u git://github.com/CandyRoms/candy.git -b c9.0
+	repo init -u git://github.com/rajatgupta1998/candy.git -b c9.0
 
 
 Then sync up with this command:
