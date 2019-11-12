@@ -47,7 +47,6 @@
   <project path="external/pigz" name="android_external_pigz" remote="los" />
   <project path="external/proguard" name="android_external_proguard" remote="los" />
   <project path="external/rsync" name="android_external_rsync" remote="los" />
-  <project path="external/stlport" name="android_external_stlport" remote="los" revision="refs/heads/lineage-15.1"/>
   <project path="external/unrar" name="android_external_unrar" remote="los" />
   <project path="external/vim" name="android_external_vim" remote="los" />
   <project path="external/zip" name="android_external_zip" remote="los" />
