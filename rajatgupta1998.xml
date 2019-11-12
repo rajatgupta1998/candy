@@ -16,6 +16,6 @@
   </project>
   <project path="frameworks/av" name="frameworks_av" remote="rajatgupta1998" />
   <project path="frameworks/base" name="frameworks_base" remote="rajatgupta1998" />
-  <project path="packages/apps/Nfc" name="android_packages_apps_Nfc" remote="rajatgupta1998" />
+  <project path="packages/apps/Nfc" name="packages_apps_Nfc" remote="rajatgupta1998" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="rajatgupta1998" />
 </manifest>
