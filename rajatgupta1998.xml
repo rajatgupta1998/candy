@@ -22,4 +22,6 @@
   </project>
   <project path="packages/apps/Nfc" name="packages_apps_Nfc" remote="rajatgupta1998" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="rajatgupta1998" />
+  <project path="vendor/candy" name="vendor_candy" remote="rajatgupta1998" />
+
 </manifest>
