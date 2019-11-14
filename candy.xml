@@ -35,7 +35,6 @@
 
   <!-- Aosp Forks -->
   <project path="art" name="art" remote="candy" />
-  <project path="bionic" name="bionic" remote="candy" />
   <project path="bootable/recovery" name="bootable_recovery" remote="candy" />
   <project path="build/kati" name="build_kati" remote="candy" />
   <project path="build/soong" name="build_soong" remote="candy" >

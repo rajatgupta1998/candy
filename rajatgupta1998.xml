@@ -5,6 +5,7 @@
            fetch="https://github.com/rajatgupta1998"
            revision="c9.0" />
 
+  <project path="bionic" name="bionic" remote="rajatgupta1998" />
   <project path="build/make" name="build" groups="pdk" remote="rajatgupta1998">
     <copyfile src="core/root.mk" dest="Makefile" />
     <linkfile src="CleanSpec.mk" dest="build/CleanSpec.mk" />
