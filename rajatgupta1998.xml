@@ -16,6 +16,9 @@
   </project>
   <project path="frameworks/av" name="frameworks_av" remote="rajatgupta1998" />
   <project path="frameworks/base" name="frameworks_base" remote="rajatgupta1998" />
+  <project path="hardware/candy/interfaces" name="hardware_candy_interfaces" remote="rajatgupta1998" >
+    <copyfile dest="hardware/candy/Android.bp" src="Android.bp"/>
+  </project>
   <project path="packages/apps/Nfc" name="packages_apps_Nfc" remote="rajatgupta1998" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="rajatgupta1998" />
 </manifest>
